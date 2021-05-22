@@ -20,7 +20,9 @@ a{
     padding:0
   }
   button {
-    cursor : pointer
+    cursor : pointer;
+    border : none;
+    background: none;
   }
   input {
     outline : none
